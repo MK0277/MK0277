@@ -35,6 +35,7 @@
 | 🥦 **VegCut** | Android app (TWA) for fresh vegetables & fruits, packaged from a PWA |
 | 🎓 **A1 Training** | Website for a computer training institute |
 | 🦋 **Butterfly Template** | Single-page creative front-end template |
+| 🏢 **Fauji Property** | Multiple-pages creative frontend |
 
 > Replace this table with links once your repos are pinned — e.g. `[VegCut](https://github.com/yourname/vegcut)`
 
@@ -43,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MK0277&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK0277&layout=compact" />
 </p>
 
 ---
@@ -52,7 +53,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto: mk2882653@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
